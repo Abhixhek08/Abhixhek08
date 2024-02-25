@@ -23,7 +23,7 @@ I've recently completed an exciting project:
 
 - Developed a machine learning model to predict the likelihood of Polycystic Ovary Syndrome (PCOS) based on various health parameters.
 - Utilized techniques such as data preprocessing, feature engineering, and model training to achieve accurate predictions.
-- The project is available in my [MachineLearning_compvision](https://github.com/Abhixhek08/MachineLearning_compvision)).
+- The project is available in my [MachineLearning_compvision](https://github.com/Abhixhek08/MachineLearning_compvision).
 
 Feel free to check it out!
 
