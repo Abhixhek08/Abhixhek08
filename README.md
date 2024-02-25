@@ -17,10 +17,18 @@ I have a keen interest in the following areas:
 
 ## Projects
 
-I'm currently working on some exciting projects related to my interests. Stay tuned for updates!
+I've recently completed an exciting project:
+
+### PCOS Prediction using Machine Learning
+
+- Developed a machine learning model to predict the likelihood of Polycystic Ovary Syndrome (PCOS) based on various health parameters.
+- Utilized techniques such as data preprocessing, feature engineering, and model training to achieve accurate predictions.
+- The project is available in my [MachineLearning_compvision](https://github.com/Abhixhek08/MachineLearning_compvision)).
+
+Feel free to check it out!
 
 ## Contact Me
 
-Feel free to reach out to me via email at abhishekshelar3324@gmail.com Let's connect and collaborate!
+Feel free to reach out to me via email at abhishekshelar3324@gmail.com. Let's connect and collaborate!
 
 Thanks for stopping by! 🚀
